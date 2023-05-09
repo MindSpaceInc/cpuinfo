@@ -1,7 +1,7 @@
 # cpuinfo
 This program is used to obtain cpu id
 
-用于识别cpu的id，点击右上角的code选择下载，并参照使用说明运行该程序。为了使大家放心使用，我们将程序代码公示如下：
+用于识别cpu的id，点击右上角的code选择下载，并参照使用说明`README.pdf`运行该程序。为了使大家放心使用，我们将程序代码公示如下：
 
 ```
 #include <arpa/inet.h>
